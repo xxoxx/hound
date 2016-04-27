@@ -1,0 +1,15 @@
+Install core.py after configuring the MySQL file, and then make sure that your NDS is not hijacked 
+
+Python needed 
+1.mysqldb
+sudo apt-get install python-mysqldb
+
+2.beautifulsoup4
+sudo apt-get install beautifulsoup4
+
+3.requests
+sudo apt-get install requests
+
+
+
+mysql-> source __DIR__/wcnc_db.sql
