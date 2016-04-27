@@ -1,5 +1,7 @@
 国产工具： 哮天犬 英文名：hound 由于我初中没毕业的我 然后不懂英语的我 找不到哮天犬如何翻译 所以英语定义为 猎犬
+
 哮天犬工具主要用途是收集多级域名
+
 功能如下：
 
    1.子域名爆破
@@ -22,13 +24,17 @@
 Install core.py after configuring the MySQL file, and then make sure that your NDS is not hijacked 
 
 Python needed 
+
 1.mysqldb
+
 sudo apt-get install python-mysqldb
 
 2.beautifulsoup4
+
 sudo apt-get install beautifulsoup4
 
 3.requests
+
 sudo apt-get install requests
 
 
